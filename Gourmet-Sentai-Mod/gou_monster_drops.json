@@ -1,0 +1,10 @@
+[
+  {
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "default_Pikopiko_death_drops",
+    "entries": [ { "item": "bikini_bottom", "prob": 56 },
+{ "item": "bikini_top", "prob": 56 },
+{ "item": "knee_high_boots", "prob": 50 }]
+  }
+]

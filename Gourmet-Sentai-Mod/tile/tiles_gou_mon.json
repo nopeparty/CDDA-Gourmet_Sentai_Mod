@@ -1,0 +1,24 @@
+{
+  "type": "mod_tileset",
+  "compatibility": [ "MSX++DEAD_PEOPLE", "UNDEAD_PEOPLE", "MX+(Overhaul)", "MshockXottoplus12" ],
+  "tile_info": [
+    {
+      "height": 32,
+      "width": 32
+    }
+  ],
+  "tiles-new": [
+    {
+      "file": "tile/Gourmet-sentai.png",
+      "tiles": 
+      [
+        { "id": "mon_gou_pikopiko",   "fg": 0},
+		{
+          "id": "corpse_mon_gou_pikopiko",
+          "fg": 2,
+          "rotates": false
+        }
+      ]
+    }
+  ]
+}
